@@ -1,0 +1,9 @@
+Alice,Starlight,Upbeat cosmic vibe,5
+Alice,Galaxy Whisper,Ballad with synth,3
+Alice,Light Years,A bright pop tune,7
+Bob,Orbit Dance,Funky dance beat,4
+Bob,Meteor Shower,Dramatic chorus,6
+Bob,Gravity Call,Deep bass drop,2
+Charlie,Supernova,Explosive rock theme,1
+Charlie,Comet Trail,Soft acoustic ballad,5
+Charlie,Lunar Echo,Retro synthwave,8
