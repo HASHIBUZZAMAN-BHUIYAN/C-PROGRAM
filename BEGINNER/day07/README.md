@@ -1,0 +1,23 @@
+# Day 07 — Strings in C: char arrays and string.h
+
+## Objectives
+- Understand how C strings work (null-terminated char arrays)
+- Use common functions from string.h
+- Read strings with scanf and fgets
+- Manipulate strings character by character
+
+## Concepts Covered
+- `char str[] = "hello";` — stored as {'h','e','l','l','o','\0'}
+- `strlen`, `strcpy`, `strcat`, `strcmp`, `strchr`, `strstr`
+- `sprintf` for formatting into a string
+- `fgets` for safe line input (avoids buffer overflow)
+- `toupper`/`tolower` from ctype.h
+
+## Time Estimate
+~2 hours
+
+## How to Build & Run
+```
+.\build.bat
+lesson.exe
+```
